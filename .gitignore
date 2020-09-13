@@ -131,3 +131,5 @@ dmypy.json
 # Ignoring DS_Store
 .DS_Store
 
+# .env files
+.env
