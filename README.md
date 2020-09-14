@@ -6,14 +6,14 @@ Analysis of San Francisco's Housing market. Created barcharts, line charts, inte
 Technologies used:
 
 Python <br>
-Pandas /n
-Matplotlib /n
-Plotly Express
-Mapbox
-Panel
-PyViz
-hvplot
-
+Pandas <br>
+Matplotlib <br>
+Plotly Express <br>
+Mapbox <br>
+Panel <br>
+PyViz <br>
+hvplot <br>
+<br>
 ![Line_Chart](/Images/LineChart.png)
 ![Top_Ten](Images/Top_Ten_plot.png)
 ![Stacked](Images/Top_Ten_Stacked.png)
