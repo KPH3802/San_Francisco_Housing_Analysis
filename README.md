@@ -5,7 +5,7 @@ Analysis of San Francisco's Housing market. Created barcharts, line charts, inte
 
 Technologies used:
 
-Python /n
+Python <br>
 Pandas /n
 Matplotlib /n
 Plotly Express
@@ -14,8 +14,7 @@ Panel
 PyViz
 hvplot
 
-![Line_Chart](GitHub_Projects_Folder/San_Francisco_Housing_Analysis/Images/LineChart.png)
-![Top_Ten](GitHub_Projects_Folder/San_Francisco_Housing_Analysis/Images/Top_Ten_plot.png)
-![Stacked](GitHub_Projects_Folder/San_Francisco_Housing_Analysis/Images/Top_Ten_Stacked.png)
+![Line_Chart](/Images/LineChart.png)
+![Top_Ten](Images/Top_Ten_plot.png)
+![Stacked](Images/Top_Ten_Stacked.png)
 
-Test
